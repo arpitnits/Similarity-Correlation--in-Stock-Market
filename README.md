@@ -7,4 +7,7 @@
 
 ![image](https://github.com/arpitnits/Similarity-Correlation-in-Stock-Market/blob/master/newplot.png)
 
---- Normalized R2 Score----
+          
+          
+            
+                    ------Normalized R2 Score----
